@@ -1,0 +1,56 @@
+.container {
+    background: white;
+}
+
+.card-text {
+    text-align: left;
+    color: black;
+}
+
+.card-body{
+    text-align: left;
+    object-fit: cover;
+}
+
+.card {
+    border: 1px solid rgba(0,0,0,0.5);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: rgb(255, 84, 84);
+    ;
+}
+
+
+.Phan_Trang {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Trang > li:hover {
+    color: white;
+    background-color: #333;
+}
+
+.Trang_1 {
+    color: white;
+    background-color: #333;
+}
+
+.col {
+    text-align: -webkit-center;
+}
+
+.card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
