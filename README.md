@@ -1,50 +1,72 @@
-# 🚗 AutoParts E-commerce Website
+<div align="center">
+  <img src="https://img.shields.io/badge/AutoParts-E--commerce-orange" alt="AutoParts E-commerce"/>
+  <h1>🚗 AutoParts E-commerce Website</h1>
+  <p><em>Your One-Stop Shop for Automotive Excellence</em></p>
+</div>
 
-## 📝 Mô tả
-Website thương mại điện tử chuyên cung cấp phụ tùng và linh kiện ô tô. Dự án được phát triển với mục tiêu tạo ra một nền tảng mua sắm trực tuyến an toàn, tiện lợi và đáng tin cậy cho khách hàng.
+---
 
-## ✨ Tính năng chính
-- 🔍 Tìm kiếm và lọc sản phẩm thông minh
-- 🛒 Giỏ hàng và thanh toán trực tuyến
-- 👤 Quản lý tài khoản người dùng
-- 📱 Giao diện responsive, thân thiện với người dùng
-- 🔐 Bảo mật thông tin thanh toán
-- 📦 Theo dõi đơn hàng trực tuyến
+## 📝 Description
+An e-commerce platform specializing in automotive parts and components. The project aims to create a safe, convenient, and reliable online shopping platform for customers.
 
-## 🛠 Công nghệ sử dụng
-- Frontend: React.js
-- Backend: Node.js
-- Database: MongoDB
-- Authentication: JWT
-- Payment: Stripe
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Status"/>
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version"/>
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License"/>
+</div>
 
-## 🚀 Cài đặt và Chạy dự án
-1. Clone repository
-```bash
-git clone [repository-url]
-```
+## ✨ Key Features
 
-2. Cài đặt dependencies
-```bash
-npm install
-```
+<table>
+<tr>
+<td width="50%">
 
-3. Chạy dự án
-```bash
-npm start
-```
+### 🛍️ Shopping Experience
+- 🔍 Smart product search and filtering
+- 🛒 Shopping cart and online payment
+- 📦 Online order tracking
 
-## 📋 Yêu cầu hệ thống
+</td>
+<td width="50%">
+
+### 👤 User Features
+- 👤 User account management
+- 📱 Responsive, user-friendly interface
+- 🔐 Secure payment information
+
+</td>
+</tr>
+</table>
+
+## 🛠 Technologies Used
+
+<div align="center">
+
+| Frontend | Backend | Database | Security | Payment |
+|:--------:|:-------:|:--------:|:--------:|:-------:|
+| React.js | Node.js | MongoDB  | JWT      | Stripe  |
+
+</div>
+
+## 🚀 Installation and Setup
+
+### Prerequisites
 - Node.js >= 14.0.0
 - MongoDB >= 4.0
 - npm >= 6.0.0
 
-## 👥 Đóng góp
-Mọi đóng góp đều được hoan nghênh! Vui lòng tạo pull request hoặc issue để đóng góp cho dự án.
+### Quick Start
+```bash
+# Clone repository
+git clone [repository-url]
 
-## 📄 Giấy phép
-Dự án này được cấp phép theo giấy phép MIT - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
+# Install dependencies
+npm install
 
-## 📞 Liên hệ
-- Email: [your-email@example.com]
-- Website: [your-website.com] 
+# Run the project
+npm start
+```
+
+<div align="center">
+  <sub>Built with ❤️ by AutoParts Team</sub>
+</div> 
