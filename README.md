@@ -68,5 +68,5 @@ npm start
 ```
 
 <div align="center">
-  <sub>Built with ❤️ by AutoParts Team</sub>
+  <sub>Built by Nguyễn Hải Quân 🚗 </sub>
 </div> 
