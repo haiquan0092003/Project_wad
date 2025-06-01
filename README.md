@@ -85,11 +85,6 @@ npm start
 # Build and run with Docker
 docker-compose up --build
 ```
-
-## 📱 Mobile App
-- iOS App: [App Store Link]
-- Android App: [Play Store Link]
-
 ## 🔧 Development
 
 ### Code Style
